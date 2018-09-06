@@ -1,2 +1,3 @@
 # -InnoSCH-Telegram-Bot
-Just cracked school bot
+Just broken school bot
+
